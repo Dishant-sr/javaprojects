@@ -2,7 +2,7 @@ import java.util.Scanner;// to take input from the user
 import java.util.Random; // to generate random number 
 // class represent the blueprint 
 public class guessgame{
-    //this is called a method, main is the starting point of the program real shit happens here
+    //this is called a method, main is the starting point of the program the real stuff happens here
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);// takes input from user
         Random random = new Random();// generate random number 
